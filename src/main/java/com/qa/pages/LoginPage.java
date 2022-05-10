@@ -10,6 +10,7 @@ public class LoginPage{
     public void loginSet(){
         System.out.println( "Login set1 method." );
         System.out.println( "Login set2 method." );
+        System.out.println( "Login set3 method." );
     }
 
 }
