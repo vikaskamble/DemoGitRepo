@@ -11,6 +11,7 @@ public class LoginPage{
         System.out.println( "Login set1 method." );
         System.out.println( "Login set2 method." );
         System.out.println( "Login set3 method." );
+        System.out.println( "Login set4 method." );
     }
 
 }
